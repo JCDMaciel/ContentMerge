@@ -56,7 +56,7 @@ src {
     pom.xml {
         arquivo pom do projeto
     }
-    README.md {
+    readme.txt {
         documentação do projeto
     }
 }
